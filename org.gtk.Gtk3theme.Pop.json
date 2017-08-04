@@ -22,9 +22,9 @@
       "sources": [
         {
             "type": "file",
-            "url": "https://github.com/system76/pop-gtk-theme/releases/download/v1.3.1r3/system76-pop-gtk-theme_1.3.1.3_all.deb",
+            "url": "https://github.com/system76/pop-gtk-theme/releases/download/2.0.0-0/pop-gtk-theme_2.0.0.0_all.deb",
             "dest-filename": "pop-gtk-theme.deb",
-            "sha256": "176537fa7bed959141e8291c9f1029d490a8eb87cf9e31d400e1d97fd493757b"
+            "sha256": "1667c59a64bee481653ad48c72c2ad9924384527a8589b802dac420012a7f093"
         }
       ]
     },
