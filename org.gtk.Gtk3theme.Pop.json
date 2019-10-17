@@ -16,7 +16,7 @@
         "tar -xf data.tar.xz",
 
         "install -dm755 /usr/share/runtime/share/themes/Pop/gtk-3.0",
-        "cp -aL usr/share/themes/Pop/gtk-3.22/* /usr/share/runtime/share/themes/Pop/gtk-3.0",
+        "cp -aL usr/share/themes/Pop/gtk-3.20/* /usr/share/runtime/share/themes/Pop/gtk-3.0",
         "cp -a usr/share/themes/Pop/index.theme /usr/share/runtime/share/themes/Pop"
       ],
       "sources": [
