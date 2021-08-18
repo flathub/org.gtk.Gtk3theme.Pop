@@ -9,7 +9,7 @@
   "appstream-compose": false,
   "separate-locales": false,
   "build-options": {
-    "prefix": "/usr/share/runtime/share/themes/Pop"
+    "prefix": "/usr/share/runtime/share/themes/Pop/gtk-3.0"
   },
   "modules": [
     {
