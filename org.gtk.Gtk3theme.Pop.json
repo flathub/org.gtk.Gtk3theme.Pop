@@ -52,7 +52,7 @@
       "buildsystem": "meson",
       "build-options": {
         "prefix": "/usr/share/runtime",
-        "append-path": "/usr/share/runtime/share/themes/Pop/gtk-3.0/bin",
+        "append-path": "/usr/share/runtime/share/themes/Pop/gtk-3.0/bin", 
         "config-opts": [ "-Dgnome-shell=false", "-Dsounds=false"  ]
       },
       "sources": [
