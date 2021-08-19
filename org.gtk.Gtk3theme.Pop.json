@@ -53,7 +53,7 @@
       "build-options": {
         "prefix": "/usr/share/runtime",
         "append-path": "/usr/share/runtime/share/themes/Pop/gtk-3.0/bin",
-        "config-opts": [ "-Dicons=false", "-Dgnome-shell=false", "-Dsounds=false", "-Dsessions=false", "-Ddefault=false", "-Ddark=false", "-Dgtksourceview=false"  ]
+        "config-opts": [ "-Dicons=false", "-Dgnome-shell=false", "-Dsounds=false", "-Dsessions=false"  ]
       },
       "sources": [
         {
