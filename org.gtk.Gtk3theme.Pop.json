@@ -59,7 +59,7 @@
         {
           "type": "git",
           "url": "https://github.com/pop-os/gtk-theme.git",
-          "tag": "v5.4.4"
+          "tag": "v5.4.5"
         },
         {
           "type": "shell",
